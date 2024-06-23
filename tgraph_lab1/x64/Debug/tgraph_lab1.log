@@ -1,0 +1,7 @@
+﻿  myGraph.cpp
+C:\Users\ulia2\source\repos\tgraph_lab_all\tgraph_lab1\myGraph.cpp(246,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ulia2\source\repos\tgraph_lab_all\tgraph_lab1\myGraph.cpp(463,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ulia2\source\repos\tgraph_lab_all\tgraph_lab1\myGraph.cpp(568,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ulia2\source\repos\tgraph_lab_all\tgraph_lab1\myGraph.cpp(630,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ulia2\source\repos\tgraph_lab_all\tgraph_lab1\myGraph.cpp(856,45): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  tgraph_lab1.vcxproj -> C:\Users\ulia2\source\repos\tgraph_lab_all\x64\Debug\tgraph_lab1.exe
